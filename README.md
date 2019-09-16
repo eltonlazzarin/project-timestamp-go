@@ -1,4 +1,4 @@
-# API Project Timestam
+# API Project Timestamp
 ​
 ### User stories :
 ​
